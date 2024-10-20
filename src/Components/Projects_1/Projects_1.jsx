@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import './Projects_1.css';
-import HR_Analytics from '../../assets/HR_Analytics.png'
-import Ecom_Analysis from "../../assets/Ecommerce_Analysis.png"
-import ER_Dashboard from "../../assets/Emergency_Room_Dashboard.png"
+import HR_Analytics from "../../../public/HR_Analytics.png"
+import Ecom_Analysis from "../../../public/Ecommerce_Analysis.png"
+import ER_Dashboard from "../../../public/Emergency_Room_Dashboard.png"
 
 
 // Define the project details with image, title, description, and skills used

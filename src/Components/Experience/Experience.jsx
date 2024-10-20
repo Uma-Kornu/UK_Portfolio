@@ -1,10 +1,10 @@
 import React from 'react';
 import './Experience.css';
-import GSU_Img from "../../assets/GSU.png"
-import Honeywell_Img from "../../assets/Honeywell.jpg"
-import EY_Img from "../../assets/EY.png"
-import Accenture_Img from "../../assets/Accenture.png"
-import Infosys_Img from "../../assets/Infosys.png"
+import GSU_Img from "../../../public/GSU.png"
+import Honeywell_Img from "../../../public/Honeywell.jpg"
+import EY_Img from "../../../public/EY.png"
+import Accenture_Img from "../../../public/Accenture.png"
+import Infosys_Img from "../../../public/Infosys.png"
 
 
 
