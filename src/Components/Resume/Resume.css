@@ -1,0 +1,104 @@
+.Resume{
+    display: flex;
+    flex-direction: column;
+    margin: 80px 170px;
+}
+.section {
+    margin-bottom: 30px;
+  }
+.section h2 {
+    font-size: 1.5rem;
+    border-bottom: 2px solid #DF8908;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  } 
+  .education {
+    margin-bottom: 20px;
+  }
+  .experience{
+    font-display: flex;
+    justify-content: space-between;
+    align-items:baseline;
+    margin-bottom: 20px;
+  }
+  
+  .experience h3{
+    font-size: 1rem;
+    margin-bottom: 5px;
+    flex-grow: 1;
+  }
+  .education h3 {
+    font-size: 1rem;
+    margin-bottom: 5px;
+  }
+  
+  .experience-date{
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    white-space: nowrap;
+  }
+  .education-date {
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+  }
+  .experience-location,
+  .education-location {
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  ul li {
+    font-size: 1rem;
+    margin-bottom: 5px;
+  }
+@media(max-width:768px){
+  .Resume{
+    gap: 80px;
+    margin: 50px 70px;
+    align-items: start;
+  }
+  .section {
+    margin-bottom: 10px;
+  }
+  .section h2 {
+    font-size: 1.2rem;
+  } 
+ 
+  .experience h3{
+    font-size: 1.0rem;
+  }
+  .education h3 {
+    font-size: 1.0rem;
+  }
+  .education p{
+    font-size: 1.0rem;
+  }
+  .experience-date{
+    font-size: 0.6rem;
+  }
+  .education-date {
+    font-size: 0.9rem;
+  }
+  .experience-location,
+  .education-location {
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  ul li {
+    font-size: 0.9rem;
+    margin-bottom: 5px;
+  }
+}
+
