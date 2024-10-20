@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import './Projects_1.css';
-import HR_Analytics from "../../../public/HR_Analytics.png"
-import Ecom_Analysis from "../../../public/Ecommerce_Analysis.png"
-import ER_Dashboard from "../../../public/Emergency_Room_Dashboard.png"
+import HR_Analytics from "/HR_Analytics.png"
+import Ecom_Analysis from "/Ecommerce_Analysis.png"
+import ER_Dashboard from "/Emergency_Room_Dashboard.png"
 
 
 // Define the project details with image, title, description, and skills used
@@ -11,21 +11,21 @@ const projectsData = [
         id: 'Project1',
         title: 'HR Attrition Analysis',
         description: 'Analysis of HR attrition using dashboard visuals and key insights.',
-        image: {HR_Analytics}, 
+        image: "/HR_Analytics.png", 
         skills: 'Tableau, Data Visualization, HR Analytics, Dashboards',
     },
     {
         id: 'Project2',
         title: 'E-Commerce Analysis',
         description: 'Data analysis of product sales across regions for e-commerce platforms.',
-        image: {Ecom_Analysis}, 
+        image: "/Ecommerce_Analysis.png", 
         skills: 'PowerBI, Data Cleaning, Data Visualisation',
     },
     {
         id: 'Project3',
         title: 'Emergency Room Visit Dashboard',
         description: 'Emergency Room Visits Dashboard visualizing patient demographics, wait times, satisfaction, and referral data.',
-        image: {ER_Dashboard}, 
+        image: "/Emergency_Room_Dashboard.png", 
         skills: 'Tableau, Data Analysis, BI Reports',
     }
 ];

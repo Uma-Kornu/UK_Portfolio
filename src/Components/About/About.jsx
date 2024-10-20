@@ -24,7 +24,7 @@ const About = () => {
                     <a href='https://www.linkedin.com/in/uma-kornu' target='_blank' rel='noopener noreferrer'>
                         <BsLinkedin />
                     </a>
-                    <a href="/Users/umakornu/Documents/personal_portfolio_react/public/Uma_Kornu_Resume.pdf" download className='about-resume'>
+                    <a href="/Uma_Kornu_Resume.pdf" download className='about-resume'>
                         <AiOutlineDownload/>
                     </a>
                 </IconContext.Provider>
