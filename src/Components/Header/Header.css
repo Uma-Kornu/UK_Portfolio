@@ -1,5 +1,5 @@
 .header{
-    background-image: url(/Designer_1.jpeg);
+    background-image: url(/background_1.jpeg);
     font-size: "50px";
     width: 100%;
     background-position: center;
@@ -19,7 +19,7 @@
     width: 100%;
     font-size: 70px;
     font-weight: 600;
-    background:linear-gradient(270deg, #ffb522 10%, #9702dc 100%);
+    background:linear-gradient(270deg,#ffb522 10%,  #9702dc 100%);
     background-size: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

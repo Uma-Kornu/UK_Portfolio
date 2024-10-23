@@ -30,12 +30,12 @@ const Contact = () => {
   return (
     <div id='contact' className='contact'>
         <div className="contact-title">
-            <h1>Get in touch</h1>
+            <h1>Contact Me</h1>
         </div>
         <div className="contact-section">
             <div className="contact-left">
                 <h1>Let's talk</h1>
-                <p>I'm currently available for openings in Data Science and Data Analyst roles, So Please feel free to contact me.</p>
+                <p>Currently seeking Data Scientist and Data Analyst roles, Please feel free to contact me.</p>
                 <div className="contact-details">
                     <div className="contact-detail">
                         <img src={mail_icon} alt="" /><p>kornu.uma11@gmail.com</p>

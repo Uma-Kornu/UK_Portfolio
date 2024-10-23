@@ -9,9 +9,9 @@ import ER_Dashboard from "/Emergency_Room_Dashboard.png"
 const projectsData = [
     {
         id: 'Project1',
-        title: 'HR Attrition Analysis',
-        description: 'Analysis of HR attrition using dashboard visuals and key insights.',
-        image: "/HR_Analytics.png", 
+        title: 'HR Data Analysis',
+        description: 'Analysis of HR data using dashboard visuals and key insights.',
+        image: "/IBM_HR_Dashboard.png", 
         skills: 'Tableau, Data Visualization, HR Analytics, Dashboards',
     },
     {
@@ -25,7 +25,7 @@ const projectsData = [
         id: 'Project3',
         title: 'Emergency Room Visit Dashboard',
         description: 'Emergency Room Visits Dashboard visualizing patient demographics, wait times, satisfaction, and referral data.',
-        image: "/Emergency_Room_Dashboard.png", 
+        image: "/Dashboard_1.png", 
         skills: 'Tableau, Data Analysis, BI Reports',
     }
 ];

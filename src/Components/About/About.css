@@ -31,12 +31,13 @@
 .about-para{
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 30px;
     font-size: 20px;
     font-weight: 500;
-    margin-bottom: -30px;
+    margin-bottom: 20px;
+    align-items:flex-start;
 }
-.about-para h1{
+/* .about-para h1{
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -47,7 +48,7 @@
     background-size: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-}
+} */
 
 
 @media(max-width:768px){

@@ -18,7 +18,8 @@ function Header() {
   }
 
   const roles = [
-    "Quality Assurance Analyst",
+    "Quality Analyst",
+    "Data Analyst",
     "Data Scientist"
   ];
 

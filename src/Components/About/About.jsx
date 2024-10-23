@@ -31,9 +31,8 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <h1>Hi! I'm Uma Kornu</h1>
                     <p>I am a data professional with a strong background in Quality Assurance and Data Science, holding a Master’s degree in Data Science and Analytics. My experience spans 6 years in IT Quality Assurance and over 2 years as a Data Science Research Assistant. Proficient in Python, R, and SQL, I have expertise in managing large datasets, data cleaning, and visualization using tools like Tableau, Alteryx, and Power BI. My work is driven by a passion for uncovering actionable insights and delivering data-driven solutions that propel business success.</p>
-                    <p>I am available for full-time Data Scientist and Data Analyst roles.</p>
+                    <p>I am seeking full-time Data Scientist and Data Analyst roles.</p>
                 </div>
                 
                 {/* <div className="about-skills">
