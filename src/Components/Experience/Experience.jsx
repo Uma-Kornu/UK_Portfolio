@@ -64,7 +64,7 @@ const experiences = [
   {
     title: 'Technology Analyst',
     company: 'Infosys',
-    date: 'May 2021 - July 2021',
+    date: 'May 2016 - July 2021',
     description: [
         'Led testing efforts for national interest projects like GST implementation, reducing defects by 40%, improving resolution time by 60%, and delivering actionable insights to stakeholders using Power BI and Tableau.'
     ],
